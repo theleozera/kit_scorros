@@ -1,0 +1,2 @@
+module kit_socorros {
+}
